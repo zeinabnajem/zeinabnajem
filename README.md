@@ -68,8 +68,6 @@ AI Engineer passionate about Machine Learning, Deep Learning, LLM Applications, 
 
 📊 Deep Learning  
 
-⚡ Backend Engineering for AI Systems  
-
 🔍 NLP & Retrieval Systems  
 
 ---
